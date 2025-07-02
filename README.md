@@ -8,7 +8,7 @@ The goal was to build something practical from scratch using React, Next.js, Typ
 
 ## 🔧 Tech Stack
 
-- **Frontend:** React + TypeScript + TailwindCSS
+- **Frontend:** React + TypeScript 
 - **Backend:** Next.js (API Routes) + TypeScript
 - **Database:** MySQL
 - **Excel Handling:** Formidable + xlsx
